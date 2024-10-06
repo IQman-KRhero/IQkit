@@ -6,7 +6,7 @@
 #
 <h1><b><i> IQkit </i></b></h1>
 <h2><i><b> This Tool Is Only Available For Beta Testing. In Futures Many Tools And Features Will Get Add 😇😇😇. </i></b></h2><br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03F700&background=000000&width=435&lines=All+In+One+Pentesting+Toolkit;A+Toolkit+Made+By+Hacker+For+Hackers;IQman+-+KRhero+-+KD" alt="Typing SVG" /></a> /></a><br></br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=03F700&background=000000&center=true&vCenter=true&width=435&lines=All+In+One+Pentesting+Toolkit;A+Toolkit+Made+By+Hacker+For+Hackers;IQman+-+KRhero+-+KD" alt="Typing SVG"</a> </a> /></a><br></br>
 <img src="https://img.shields.io/badge/Python 3.11- red"> <img src="https://img.shields.io/badge/Fsociety-orange"> <img src="https://img.shields.io/badge/Download-Now-green"> <img src="https://img.shields.io/badge/Licence-GPL 3.0-yellowgreen">
 
 #
