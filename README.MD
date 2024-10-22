@@ -43,7 +43,7 @@ sudo apt install python
 sudo apt install git
 
 # Clone Project
-git clone https://github.com/IQman-KRhero/IQkit
+git clone https://github.com/NotKRhero/IQkit
 
 # Change Directory
 cd iqkit
